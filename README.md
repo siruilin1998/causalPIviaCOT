@@ -1,10 +1,18 @@
-# 📘 Causal Partial Identification via Conditional Optimal Transport
 
-**Authors:** Sirui Lin, Zijun Gao, Jose Blanchet, Peter Glynn  
-**Preprint:** *Estimation of Optimal Causal Bounds via Covariate-Assisted Optimal Transport*, arXiv:2506.00257 (2025)  
-**Accepted Version:** *Causal Partial Identification via Conditional Optimal Transport* — AISTATS 2026  
+# Causal Partial Identification via Conditional Optimal Transport
+
+**Sirui Lin**¹, **Zijun Gao**², **Jose Blanchet**¹, **Peter Glynn**¹  
+
+¹ Stanford University, Department of Management Science & Engineering  
+² Marshall School of Business, University of Southern California  
 
 ---
+
+**Paper Links:**  
+- 📄 arXiv (2025): https://arxiv.org/abs/2506.00257  
+- 🏛 AISTATS 2026 (OpenReview): https://openreview.net/forum?id=rDufBj64yQ 
+---
+
 
 ## 📖 Overview
 
