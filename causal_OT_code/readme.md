@@ -1,4 +1,4 @@
-# Submission: Causal Partial Identification via Conditional Optimal Transport
+# Plot Instructions
 
 To generate the plots in Figure 2,
 
