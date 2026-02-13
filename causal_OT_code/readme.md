@@ -1,6 +1,6 @@
 # Plot Instructions
 
-To generate the plots in Figure 2,
+To generate the plots in Figure 2, run the code files in the folder plottingcode/.
 
 Figure 2(a): linear location model -> well_test.py
 Figure 2(b): quadratic location model -> square_test.py
